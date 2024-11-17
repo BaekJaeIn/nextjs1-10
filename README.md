@@ -56,7 +56,7 @@
 
 - [09-side-effects-useeffect](https://09-side-effects-useeffect.vercel.app/)
 
-- [10-react-quiz](https://10-react-quiz.vercel.app/)
+- [10-react-quiz](https://10-react-quiz-2.vercel.app/)
 
 ---
 
